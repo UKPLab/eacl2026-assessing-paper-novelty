@@ -232,14 +232,13 @@ For development work:
 Please use the following citation:
 
 ```
-@misc{afzal2025notnovelenoughenriching,
-      title={Beyond "Not Novel Enough": Enriching Scholarly Critique with LLM-Assisted Feedback},
-      author={Osama Mohammed Afzal and Preslav Nakov and Tom Hope and Iryna Gurevych},
-      year={2025},
-      eprint={2508.10795},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2508.10795},
+@inproceedings{
+afzal2026beyond,
+title={Beyond {\textquotedblleft}Not Novel Enough{\textquotedblright}: Enriching Scholarly Critique with {LLM}-Assisted Feedback},
+author={Osama Mohammed Afzal and Preslav Nakov and Tom Hope and Iryna Gurevych},
+booktitle={19th Conference of the European Chapter of the Association for Computational Linguistics},
+year={2026},
+url={https://openreview.net/forum?id=VNB3bhnHhL}
 }
 ```
 
