@@ -13,6 +13,8 @@ Novelty assessment is a central yet understudied aspect of peer review, particul
 
 This repo contains the code and data used to produce the experiments in this paper.
 
+[Link to Data](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/4988)
+
 Contact person: [Osama Mohammed Afzal](mailto:osama.afzal@tu-darmstadt.de)
 
 [UKP Lab](https://www.ukp.tu-darmstadt.de/) | [TU Darmstadt](https://www.tu-darmstadt.de/)
